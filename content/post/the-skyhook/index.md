@@ -10,7 +10,7 @@ tags:
     - One-offs
 ---
 
-# Part I
+## Part I
 
 "Here’s the crazy thing," Dr. Emily Kline began in the bustling control room of the International Space Operations Center, "We're gonna fling a ship into space with a cosmic lasso." Laughter erupted among the engineers and bureaucrats. Kline smiled; she knew that any game-changing idea needed a dash of absurdity.
 
@@ -36,7 +36,7 @@ The energy in the room buzzed as everyone held in their breaths. Emily paused, a
 
 ---
 
-# Part II
+## Part II
 
 Constructing the Skyhook was a Sisyphean task, akin to stringing a colossal fishing line across the universe. But instead of reeling in a fish, you're trying to snag a suborbital spaceship travelling at least 3,600 kilometers per hour across the sky. The tether was a feat of engineering in itself, a hyper-dense weave of zylon and carbon nanotubes tailored to endure the gargantuan tensional forces strung between Earth and Space. It was no ordinary cable; it was a highway to the heavens.
 
@@ -58,7 +58,7 @@ Skepticism rippled through the room, but Emily was already considering it. The s
 
 ---
 
-# Part III
+## Part III
 
 After many sleepless months, their dream had solidified into reality - manifested in a colossal weave of carbon nanotubes stretching into the heavens. The construction of the skyhook was finally complete. And now came the moment of truth, a test that fell on the shoulders of Gus, their audacious pilot. His vessel, the StarCatcher, had launched into upper atmosphere - now dutifully tracking the skyhook's orbital path.
 
@@ -90,7 +90,7 @@ They had done it. In the face of seemingly certain failure, they had etched thei
 
 ---
 
-# Part IV
+## Part IV
 
 The Skyhook's success marked more than a victory—it was the dawn of a new age. Emily bathed in the afternoon sun's orange glow from her office window. She felt the weight of accomplishment meld with the pull of uncertainty. The Skyhook had ripped open the gates to the cosmos, allowing anyone daring enough to take a space lasso ride. But now, a new puzzle lay ahead—who gets to use it, and under what rules?
 
