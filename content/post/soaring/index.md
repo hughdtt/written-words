@@ -15,49 +15,83 @@ tags:
 
 Cover art by: [@ricodz](https://www.deviantart.com/ricodz/art/A-World-Away-761011373)
 
-## ICARUS
+## ICARUS 
 
-The bold, capitalized words "LETTER OF ADMISSION: MINOS SPACE CORP" dominated my screen, a stark claim set against the cold glow of the digital background.
+The Olympus Space Centre is a sight to behold, trust me.
 
-Haunted by the lingering tension from yesterday's conference, I decided to rip off the band-aid. Drawing in a breath, I forwarded a screenshot of the admission letter to Dad. As I hit send, a clatter of dishes, echoed from the kitchen. Great. He was still home; better to face this head-on.
+Gathering here like moths to a flame, crowds of tech enthusiasts, astro-engineers and journalists sat eagerly within the Olympian Auditorium. 
 
-Easing out of my room, I peeped down the long, artificially lit corridor. The dutiful maid-bots were humming and bustling around, engrossed in their routine tasks. And there, in the midst of it all, was Dad; his eyes glued to his tablet, lost in a world of his own.
+It was blasphemy to even call it an auditorium. The towering structure of metal and glass, reaching up like mankind's hand brushing their fingers against the face of the heavens. Imagine being inside the belly of a cathedral, but instead of worshipping the Divine, you're praising innovation and progress; all under a dome as endless as space itself. 
 
-"Good morning," I greeted, my voice teetering on the edge of normalcy and nervousness - the words dangling in the air like a fragile ornament.
+Personally, I wouldn't be so focused on the granduer of it all. My attention would rather be the frail man at its heart. Right there, smack dab in the middle of all that splendour, was my dad, Daedalus.
 
-"Morning," he reciprocated with his gaze still locked onto his screen; a silent rebuff to my greeting.
+He was the head engineer of the Olympus Space Centre, the silent workhorse behind all their innovations. A genius, really, but the guy had the stage presence of a plank of wood. He just wasn’t meant for the spotlight, he was meant for the shadows of his lab, toiling away on projects that redefined the boundaries of human imagination.
 
-"Dad, I sent you something—" I began, my sentence hanging in the room like a thread, but before I could weave it into a conversation, he swiftly cut me off.
+He was introducing his latest proposal; the Dyson Swarm. Need a picture? Imagine a bunch of solar panels hugging the sun - gathering and storing all that energy. Got that? Now imagine it beaming said stored energy any place in the solar system it wanted. All you would need were receiving stations ready to convert those beams back into electricty. A viola. A literal intergalactic power grid. Neat, huh? Pure sci-fi stuff, soon to become reality, thanks to him. But as he stood there, reading off the teleprompter, you could see the uncertainty etched in the lines of his face, the tremble in his hands as he pointed at the conceptual designs illumintating the giant screen behind him. It was painful to watch, but also, kind of endearing.
 
-"I need to apologize," he murmured, the words rushed and indistinct. His eyes were seemingly half-focussed behind the tablet. "I...I didn't handle things well at the conference."
+I remember when I was little. Mum and I would sit in the front row, giggling every time Dad stumbled over a word or got the slides mixed up. His speeches at home were always better. I used to get so lost in those dreams he weaved - a starry utopia, humans stretching beyond the boundaries of our tiny Earth. But all of that was a long time ago.
 
-"No, Dad. I should apologize too," I chimed in, my voice heavy with surprise and a pang of guilt. "Anyway, about that message...have you seen it?" I redirected.
+Today, I was here for a different reason.
 
-His gaze flickered up from the screen, those blue eyes reflecting a mixture of confusion and curiosity. He didn’t reply, so I rushed to fill the silence. "I need a legal guardian's signature for it. Since I'm, uh, technically not an adult. Could you sign it for me?"
+"Ladies and gentlemen," my father's voice ricocheted off the walls of the vast auditorium, "we're on the cusp of a new era, and who better to guide us than our very own CEO. Please give him a welcome him onto the stage!"
 
-His brow furrowed. "Ic—" he began, but I rushed on, too eager to finally get my secret off my chest.
+The crowd went nuts as Zeus sauntered onto the stage. He put a comforting hand on my dad's shoulder, taking over the presentation with a certain charm and confidence that my father had lacked. The crowd lapped it up. For them, Zeus *was* Olympus, not the quiet man behind him content with working behind-the-scenes.
 
-"They've got a couple of humanitarian projects I'm excited about. I've even found some ways to incorporate some of your old prototypes," I added, the words tumbling out, trying to lure him in with my enthusiam.
+I glanced sideways at the displayed renderings of the proposed megastructure, my own dreams clashing with the great images flickering before my eyes. My father had always wanted me to join Olympus, to be part of his vision, this moment in human history. He said it was my destiny, our shared dream, born out of a tragedy that had torn our family apart.
 
-Finally, he looked up, his eyes meeting mine. They bore a strange emptiness that made my heart beat uneasily. Was he going to say no?
+The tragedy, of course, was Mum. She could make anything green flourish, but tech? Not her forte. But she was the one who'd sparked the idea - a solar system powered by clean, green energy. "The Sun keeps everything alive here on Earth," she'd say, a spark in her eyes, "so why can't it do the same for the entire system?"
 
-He opened his mouth, the corners twitching as if battling unspoken words, paused, and closed it again. After a moment that seemed to stretch into eternity, he broke the silence. "Icarus," he finally said, his voice carrying a stern edge, "not MINOS. Anywhere but there."
+Losing her... it changed everything. Dad and I, it's like we were on different chapters of the same story. The distance between us seemed to grow with every passing day, as vast as the silence after a song ends. We didn't know how to talk to each other anymore. And it wasn't just about finding the right words, but finding the courage to say them. But in that chasm of silence, there was this tiny glimmer of hope that made me think maybe, just maybe, we could reconnect again someday.
 
-My excitement deflated like a balloon, swiftly replaced with a cloud of confusion and a spritz of annoyance. "Why not?" I asked, the words echoing my bewilderment.
+Dad was right about one thing though: we were on the cusp of a new era. Only, my new era had nothing to do with Olympus. I had my own plans, ones that didn’t align with his vision of me following in his footsteps. My dreams were tangled up with MINOS - Olympus's main rival. It was a secret I kept close, a tiny spark of rebellion ready to ignite. The only hitch was Dad's digital signature, validating my age and experience.
 
-"All I can tell you is it's not the right fit for you," he said, his voice a steady stream in the sea of uncertainty. "If you don't find anything else, there's always a spot for you at Olympus."
+The bitter irony of it stung. The key to my future was held by the man whose shadow I was trying to escape. But I'd made up my mind. I'd get that signature, even if I had to forge it. I knew it would shatter him, but it was the only way to unchain myself from his dreams and build my own.
 
-"Dad, the whole point was to avoid nepotism. I don't want you to pull any strings for me," I retorted, frustration seeping into my voice.
+As Zeus continued his show, Dad stood quietly in the background, just like he did with his dreams. I swallowed the guilt, firmed up my resolve. It was time to start my own story.
 
-I continued to stare at him, my eyes locked onto his with a silent plea for understanding. His struggle was evident in his grimace and the dull sheen in his eyes.
+"Decades ago, the launch of the Skyhook revolutionized our reach into space. Building on its success, we stand here today, a species that sails among the stars," Zeus was commanding the crowd, his voice strong and resonating through the colossal auditorium.
 
-"Sorry," he eventually managed to let out, as if he was dragging the word from a deep well. He gave me a weak and lopsided smile. His eyes, this time his turn, pleaded for understanding.
+"But," he said, bringing the noise down to a hush, "we've hit a big wall."
 
-A knot tightened in my stomach. This was supposed to be simple. Just one signature. Why couldn't he see that? He's so frustrating! Mum would've known exactly what to do.
+"Our colonies among the asteroid belt, on the Moon,and Mars are all facing the same problem," he explain as the crowd listened closer. "We are trying our greatest to keep up with supply, but the demand... is only getting higher."
 
-But Mum wasn't here anymore, and I had to accept what was in front of me.
+The room was silent, hanging onto his every word. Zeus was a maestro with his audience, knowing when to stir their excitement and when to drop them into a contemplative silence.
 
-I sighed, deflated. "Okay, Dad. Not MINOS," I conceded, my voice barely more than a whisper, "I'll find something else."
+"But fear not! Here at Olympus, we're driven not only by the vision of our predecessors but also their courage! We're pushing boundaries, going where no man has gone before! The Dyson Swarm will tap into the Sun's power, providing us with energy in quantities we've only ever dreamed of!" With this, the crowd erupted into applause.
+
+That was my cue.
+
+"Dad," I whispered to him, barely audible against the roars of the crowd.
+
+"Hmm? What is it, Icarus?" he replied, tearing his gaze from Zeus to meet my eyes.
+
+I took a deep breath, each second ticking by like an eternity. His eyes were full of warmth, pride... and expectation.
+
+"Dad," I started again, my voice slightly stronger, "I've been scouted by MINOS."
+
+The words hung in the air between us like a bad smell. His brow furrowed as his brain worked overtime to make sense of what he just heard. I could see his mouth open and close like a fish gasping for air.
+
+"But... I don’t understand. You said you'd accept the internship, at the company. I was just about to introduce you, announce you as a part of the team."
+
+He sounded hurt, confused, as if I'd pulled the rug out from under his feet. 
+
+Zeus, meanwhile, was driving his point home. "We'll light up the solar system, make it livable, sustainable. This isn't just our mission, it's our legacy."
+
+The crowd was going nuts, swept up in Zeus's visionary rhetoric. But in our corner of the stage, a storm was brewing. The pain in my father's eyes was almost unbearable. I felt a sharp twinge of guilt, but I held my ground.
+
+"Dad, I have to do this. For me. For mum."
+
+An uncomfortable silence followed, a chasm growing between us. I could see the hurt in his eyes, a sense of betrayal. It was as if the noise of the cheering crowd had faded into the background. Soon the hurt in his eyes, melded into a stone cold look of fury.
+
+Zeus glanced over at him, ready to receive his signal to introduce me. Despite Zeus' general aloofness, even he could sense something was off. Looking back toward the audience, he decided it was time for a quick break. "Let's take a brief intermission, folks. We'll be right back with more exciting updates from Olympus. In the meantime, enjoy some refreshments."
+
+With that, Zeus swiftly moved towards us, his charismatic CEO mask giving way to concern. 
+
+"Everything okay over here?" he asked, assessing the tension. But before we could answer, he swiftly moved on, defusing the situation for the moment. "We'll sort this out later. Right now, let's keep the conference moving smoothly."
+
+I watched as he pivoted back towards the audience, resuming his spot at the center of attention. Dad, meanwhile, had this look on his face that was hard to interpret, his dream for us crumbling on the same stage he had hoped to celebrate it.
+
+I had a sinking feeling that our relationship was heading into uncharted territory. And I wasn't sure we'd ever find our way back to each other.
 
 ---
 
