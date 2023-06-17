@@ -27,13 +27,13 @@ Personally, I wasn't so focused on the granduer of it all. My attention was on t
 
 He was the head engineer of the Olympus Space Centre, the silent workhorse behind all their innovations. A genius, really, but the guy had the stage presence of a plank of wood. He just wasn’t meant for the spotlight, he was meant for the shadows of his lab, toiling away on projects that redefined the boundaries of human imagination.
 
-He was introducing his latest proposal; the Dyson Swarm. Need a picture? Imagine a bunch of solar panels hugging the sun - gathering and storing all that energy. Got that? Now imagine it beaming said stored energy any place in the solar system it wanted. All you'd need were receiving stations ready to convert those beams back into electricty. And voilà; a literal intergalactic power grid. Neat, huh? Pure sci-fi stuff, soon to become reality, thanks to him. But as he stood there, reading off the teleprompter, you could see the uncertainty etched in the lines of his face, the tremble in his hands as he pointed at the conceptual designs illumintating the giant screen behind him. It was painful to watch, but also, kind of endearing.
+He was introducing his latest proposal; the Dyson Swarm. Need a picture? Imagine a bunch of solar panels hugging the sun - gathering and storing all that energy. Got that? Now imagine it beaming said stored energy any place in the solar system it wanted. All you'd need were receiving stations ready to convert those beams back into electricty. And voilà; a literal intergalactic power grid. Neat, huh? Pure sci-fi stuff, soon to become reality, thanks to him. But as he stood there, reading off the teleprompter, you could see the uncertainty etched onto the lines of his face, the slight tremble in his hands as he pointed at the conceptual designs illumintating the giant screen behind him. It was painful to watch, but also, kind of endearing.
 
 I remember when I was little. Mum and I would sit in the front row, giggling every time Dad stumbled over a word or got the slides mixed up. His speeches at home were always better. I used to get so lost in those dreams he weaved - a starry utopia, humans stretching beyond the boundaries of our tiny Earth. But all of that was a long time ago.
 
 Today, I was here for a different reason.
 
-"Ladies and gentlemen," my father's voice ricocheted off the walls of the vast auditorium, "we're on the cusp of a new era, and who better to guide us than our very own CEO. Please give him a welcome him onto the stage!"
+"Ladies and gentlemen," my father's voice ricocheted off the walls of the vast auditorium, "we're on the cusp of a new era, and who better to guide us than our very own CEO. Please welcome him onto the stage!"
 
 The crowd went nuts as Zeus sauntered onto the stage. He put a comforting hand on my dad's shoulder, taking over the presentation with a certain charm and confidence that my father had lacked. The crowd lapped it up. For them, Zeus *was* Olympus, not the quiet man behind him content with working behind-the-scenes.
 
@@ -53,9 +53,9 @@ As Zeus continued his show, Dad stood quietly in the background, just like he di
 
 "But," he said, bringing the noise down to a hush, "we've hit a big wall."
 
-"Our colonies among the asteroid belt, on the Moon,and Mars are all facing the same problem," he explain as the crowd listened closer. "We are trying our greatest to keep up with supply, but the demand... is only getting higher."
+"Our colonies among the asteroid belt, on the Moon, and finally Mars are all facing the same problem," he explain as the crowd listened closer. "Energy".
 
-The room was silent, hanging onto his every word. Zeus was a maestro with his audience, knowing when to stir their excitement and when to drop them into a contemplative silence.
+"We are trying our greatest to keep up with supply, but the demand... is only getting higher." The room was silent, hanging onto his every word. Zeus was a maestro with his audience, knowing when to stir their excitement and when to drop them into a contemplative silence.
 
 "But fear not! Here at Olympus, we're driven not only by the vision of our predecessors but also their courage! We're pushing boundaries, going where no man has gone before! The Dyson Swarm will tap into the Sun's power, providing us with energy in quantities we've only ever dreamed of!" With this, the crowd erupted into applause.
 
@@ -79,7 +79,7 @@ Zeus, meanwhile, was driving his point home. "We'll light up the solar system, m
 
 The crowd was going nuts, swept up in Zeus's visionary rhetoric. But in our corner of the stage, a storm was brewing. The pain in my father's eyes was almost unbearable. I felt a sharp twinge of guilt, but I held my ground.
 
-"Dad, I have to do this. For me. For mum."
+"Dad, I have to do this. For me. For Mum."
 
 An uncomfortable silence followed, a chasm growing between us. I could see the hurt in his eyes, a sense of betrayal. It was as if the noise of the cheering crowd had faded into the background. Soon the hurt in his eyes, melded into a stone cold look of fury.
 
