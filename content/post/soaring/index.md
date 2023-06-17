@@ -12,23 +12,23 @@ tags:
 
 # ICARUS 
 
-The Olympus Space Centre was a sight to behold, trust me.
+The Olympus Space Centre is a sight to behold, trust me.
 
-And gathered like moths to a flame, crowds of tech enthusiasts, astro-engineers and journalists sat eagerly within the Olympian Auditorium. 
+Gathering here like moths to a flame, crowds of tech enthusiasts, astro-engineers and journalists sat eagerly within the Olympian Auditorium. 
 
-It was blasphemy to even call it an auditorium. The towering structure of metal and glass, reaching up like mankind's hand brushing their fingers against the face of the heavens. Imagine being inside the belly of a cathedral, but instead of worshipping the Divine, you're praising innovation, progress and ambition; all under a dome as endless as space itself. 
+It was blasphemy to even call it an auditorium. The towering structure of metal and glass, reaching up like mankind's hand brushing their fingers against the face of the heavens. Imagine being inside the belly of a cathedral, but instead of worshipping the Divine, you're praising innovation and progress; all under a dome as endless as space itself. 
 
-Personally, I wasn't focused so much on the granduer of it all but rather the frailty of the man at its heart. Right there, smack dab in the middle of all that splendour, was my dad, Daedalus.
+Personally, I wouldn't be so focused on the granduer of it all. My attention would rather be the frail man at its heart. Right there, smack dab in the middle of all that splendour, was my dad, Daedalus.
 
 He was the head engineer of the Olympus Space Centre, the silent workhorse behind all their innovations. A genius, really, but the guy had the stage presence of a plank of wood. He just wasn’t meant for the spotlight, he was meant for the shadows of his lab, toiling away on projects that redefined the boundaries of human imagination.
 
-He was introducing his latest proposal; the Dyson Swarm. Need a picture? Imagine a bunch of solar panels hugging the sun, gathering and storing all that energy. Got that? Now imagine it beaming said stored energy any place in the solar system it wanted. All you would need were receiving stations ready to convert those beams back into electricty. A viola. A literal intergalactic power grid. Neat, huh? Pure sci-fi stuff, soon to become reality, thanks to him. But as he stood there, reading off the teleprompter, you could see the uncertainty etched in the lines of his face, the tremble in his hands as he pointed at the conceptual designs illumintating the giant screen behind him. It was painful to watch, but also, kind of endearing.
+He was introducing his latest proposal; the Dyson Swarm. Need a picture? Imagine a bunch of solar panels hugging the sun - gathering and storing all that energy. Got that? Now imagine it beaming said stored energy any place in the solar system it wanted. All you would need were receiving stations ready to convert those beams back into electricty. A viola. A literal intergalactic power grid. Neat, huh? Pure sci-fi stuff, soon to become reality, thanks to him. But as he stood there, reading off the teleprompter, you could see the uncertainty etched in the lines of his face, the tremble in his hands as he pointed at the conceptual designs illumintating the giant screen behind him. It was painful to watch, but also, kind of endearing.
 
-I remember when I was little. Mom and I would sit in the front row, giggling every time Dad stumbled over a word or got the slides mixed up. His speeches at home were always better. I used to get so lost in those dreams he weaved - a starry utopia, humans stretching beyond the boundaries of our tiny Earth. But all of that was a long time ago.
+I remember when I was little. Mum and I would sit in the front row, giggling every time Dad stumbled over a word or got the slides mixed up. His speeches at home were always better. I used to get so lost in those dreams he weaved - a starry utopia, humans stretching beyond the boundaries of our tiny Earth. But all of that was a long time ago.
 
 Today, I was here for a different reason.
 
-"Ladies and gentlemen," my father's voice ricocheted off the walls of the vast auditorium, "we're on the cusp of a new era, and who better to guide us there than our illustrious CEO. Please welcome him onto the stage!"
+"Ladies and gentlemen," my father's voice ricocheted off the walls of the vast auditorium, "we're on the cusp of a new era, and who better to guide us than our very own CEO. Please give him a welcome him onto the stage!"
 
 The crowd went nuts as Zeus sauntered onto the stage. He put a comforting hand on my dad's shoulder, taking over the presentation with a certain charm and confidence that my father had lacked. The crowd lapped it up. For them, Zeus *was* Olympus, not the quiet man behind him content with working behind-the-scenes.
 
@@ -36,7 +36,7 @@ I glanced sideways at the displayed renderings of the proposed megastructure, my
 
 The tragedy, of course, was Mum. She could make anything green flourish, but tech? Not her forte. But she was the one who'd sparked the idea - a solar system powered by clean, green energy. "The Sun keeps everything alive here on Earth," she'd say, a spark in her eyes, "so why can't it do the same for the entire system?"
 
-Losing her... it changed everything. Dad and I, we were on different chapters of the same story. The distance between us seemed to grow with every passing day, as vast as the silence after a song ends. We didn't know how to talk to each other anymore. And it wasn't just about finding the right words, but finding the courage to say them. But in that chasm of silence, there was this tiny glimmer of hope that made me think that maybe, just maybe, we could reconnect again someday.
+Losing her... it changed everything. Dad and I, it's like we were on different chapters of the same story. The distance between us seemed to grow with every passing day, as vast as the silence after a song ends. We didn't know how to talk to each other anymore. And it wasn't just about finding the right words, but finding the courage to say them. But in that chasm of silence, there was this tiny glimmer of hope that made me think maybe, just maybe, we could reconnect again someday.
 
 Dad was right about one thing though: we were on the cusp of a new era. Only, my new era had nothing to do with Olympus. I had my own plans, ones that didn’t align with his vision of me following in his footsteps. My dreams were tangled up with MINOS - Olympus's main rival. It was a secret I kept close, a tiny spark of rebellion ready to ignite. The only hitch was Dad's digital signature, validating my age and experience.
 
@@ -46,11 +46,13 @@ As Zeus continued his show, Dad stood quietly in the background, just like he di
 
 "Decades ago, the launch of the Skyhook revolutionized our reach into space. Building on its success, we stand here today, a species that sails among the stars," Zeus was commanding the crowd, his voice strong and resonating through the colossal auditorium.
 
-"But," he said, bringing the noise down to a hush, "our colonies on the Moon, Mars and among the asteroid belt, they're all energy-starved. And the demand... is only getting higher."
+"But," he said, bringing the noise down to a hush, "we've hit a big wall."
+
+"Our colonies among the asteroid belt, on the Moon,and Mars are all facing the same problem," he explain as the crowd listened closer. "We are trying our greatest to keep up with supply, but the demand... is only getting higher."
 
 The room was silent, hanging onto his every word. Zeus was a maestro with his audience, knowing when to stir their excitement and when to drop them into a contemplative silence.
 
-"Here at Olympus, we're driven not only by the vision of our predecessors but their courage! We're pushing boundaries, going where no man has gone before! The Dyson Swarm will tap into the Sun's power, providing us with energy in quantities we've only ever dreamed of!" With this, the crowd erupted into applause.
+"But fear not! Here at Olympus, we're driven not only by the vision of our predecessors but also their courage! We're pushing boundaries, going where no man has gone before! The Dyson Swarm will tap into the Sun's power, providing us with energy in quantities we've only ever dreamed of!" With this, the crowd erupted into applause.
 
 That was my cue.
 
