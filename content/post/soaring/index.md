@@ -5,12 +5,17 @@ slug: soaring-ch-1
 date: 2023-06-17
 image: cover.jpg
 categories:
-    - Web serialised novel
+    - Serialized
 tags:
-    - Web serialised novel
+    - Serialized
+    - Re-imagined
+    - Greek myth
+    - Sci-fi
 ---
 
-# ICARUS 
+Cover art by: [@ricodz](https://www.deviantart.com/ricodz/art/A-World-Away-761011373)
+
+## ICARUS 
 
 The Olympus Space Centre is a sight to behold, trust me.
 

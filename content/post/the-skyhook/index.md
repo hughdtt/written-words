@@ -8,7 +8,10 @@ categories:
     - One-offs
 tags:
     - One-offs
+    - Sci-fi
 ---
+
+Cover art by: [@glennclovis](https://www.deviantart.com/glennclovis/art/Space-Elevator-447553527)
 
 ## Part I
 
