@@ -1,8 +1,8 @@
 ---
-title: Soaring - Chapter 1
-description: "Experience the classic myth of Icarus reborn in the backdrop of star-faring utopia. In Soaring, ambition takes flgith beyond earthly boundaries. Witness the monumental triumphs and catastrophic price of unchecked dreams in the faceless vastness of space."
-slug: soaring-ch-1
-date: 2023-06-16
+title: Soaring - Chapter 2
+description: "Icarus breaks the truth to her father and now has to find a way to get his signature before she can officially accept the MINOS application."
+slug: soaring-ch-2
+date: 2023-06-17
 image: cover.jpg
 categories:
     - Serialized
