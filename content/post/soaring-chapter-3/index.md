@@ -1,6 +1,5 @@
 ---
 title: Soaring - Chapter 3
-description: "Icarus is tasked with cooking up an alternative solution for her current predicament. Perhaps she can find some help from her friendly AI, Ouroboros?"
 slug: soaring-ch-3
 date: 2023-06-18
 image: cover.jpg

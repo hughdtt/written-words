@@ -78,11 +78,11 @@ enabled = true
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = "writtenwords"
-apiUrl = "https://disqus.com/api/oauth/2.0/authorize/"
-apiKey = "FR9Qz1ulHAiAjiSBX7bZ4yHSkInF6PjIk7XMvH1PKNanJbMMzmYU6uKx9ORtxG0j"
-admin = "hughduongtrantien"
-adminLabel = "Hugh Duong-Tran-Tien"
+shortname = ""
+apiUrl = ""
+apiKey = ""
+admin = ""
+adminLabel = ""
 
 [comments.utterances]
 repo = ""

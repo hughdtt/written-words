@@ -1,6 +1,5 @@
 ---
 title: Soaring - Chapter 2
-description: "The only thing standing between Icarus and MINOS is her father's signature. Is it going to be as easy as simply asking for it?"
 slug: soaring-ch-2
 date: 2023-06-17
 image: cover.jpg
