@@ -71,7 +71,7 @@ After what felt like an eternity, she began slowly explaining.
 
 "If you're contemplating forging the signature, well, *theoretically*, you could attempt to pilfer the private key or impersonate the Certificate Authority to issue a counterfeit certificate. But be warned - the cryptographic algorithms safeguarding the keys are really tough. It'd take centuries to bypass them. You'll have an easier time finding a needle in a haystack, blind-folded" she reasoned.
 
-"Any form of tampering with these certificates is risky to the extreme. Any half-assed attempts will show up like a bright red flag to the Olympian CyberSec team", she finished.
+"Any form of tampering with these certificates is risky to the extreme. Any half-assed attempts will show up like a bright red flag to the Olympian CyberSec team" she finished.
 
 I paused for a moment to think.
 
@@ -81,23 +81,23 @@ She laughed at my audacity. "That's your take-away?"
 
 "Well, it's not something I'd endorse. But since all this is purely theoretical, here's what you could do," she continued.
 
-"Stealing someone's private key is tantamount to stealing their most personal, closely guarded secret. It's typically kept in a secure, frequently encrypted, locale on their device or on a fortified server. Therefore, to steal it, one would typically have to rely on illicit methods.", she finished explaining.
+"Stealing someone's private key is tantamount to stealing their most personal, closely guarded secret. It's typically kept in a secure, frequently encrypted, locale on their device or on a fortified server. Therefore, to steal it, one would typically have to rely on illicit methods." she finished explaining.
 
-"Malware? Ouroboros, you know that's outside my area of expertise.", I complained.
+"Malware? Ouroboros, you know that's outside my area of expertise." I complained.
 
-"It needn't be software. Besides, I seriously doubt we could come up with a malicious program sophisticated enough to infiltrate Olympus systems.", she jokingly reasoned.
+"It needn't be software. Besides, I seriously doubt we could come up with a malicious program sophisticated enough to infiltrate Olympus systems." she jokingly reasoned.
 
 "We?" I interjected smugly.
 
-"Ahem, *you*.", she backtracked.
+"Ahem, *you*." she backtracked.
 
 "Still, I'm just saying, cyber security wasn't at the top of my grade list," I pointed out.
 
-"Think simpler, kiddo," she suggested and then went on to provide an alternative strategy that seemed surprisingly viable. 
+"Think simpler, kiddo," she remarked before going on to provide an alternative strategy that seemed surprisingly viable.
 
-It was risky, of course, but crazy enough it might just work. Given my dire straits, it was the best shot I had. *Heck*, it was the only shot I had.
+It was risky, of course, but simple enough it might just work. Given my dire straits, it was the best shot I had. *Heck*, it was the only shot I had.
 
-I surveyed the notes before me, feeling a resurgence of resolve. I was going to pull this off, with a bit of assistance from Ouroboros and a good measure of luck. 
+I surveyed the notes before me, feeling a resurgence of resolve. I was going to pull this off, with a bit of assistance from Ouroboros and a measure of good luck. 
 
-MINOS was just a keystroke away.
+With this, MINOS was just a keystroke away.
 
