@@ -81,15 +81,15 @@ She laughed at my audacity. "That's your take-away?"
 
 "Well, it's not something I'd endorse. But since all this is purely theoretical, here's what you could do," she continued.
 
-"Stealing someone's private key is tantamount to stealing their most personal, closely guarded secret. It's typically kept in a secure, frequently encrypted, locale on their device or on a fortified server. Therefore, to steal it, one would typically have to rely on illicit methods".
+"Stealing someone's private key is tantamount to stealing their most personal, closely guarded secret. It's typically kept in a secure, frequently encrypted, locale on their device or on a fortified server. Therefore, to steal it, one would typically have to rely on illicit methods.", she finished explaining.
 
-"Malware? Ouroboros, you know that's outside my area of expertise."
+"Malware? Ouroboros, you know that's outside my area of expertise.", I complained.
 
-"It needn't be software. Besides, I seriously doubt we could come up with a malicious program sophisticated enough to infiltrate Olympus systems."
+"It needn't be software. Besides, I seriously doubt we could come up with a malicious program sophisticated enough to infiltrate Olympus systems.", she jokingly reasoned.
 
-"We?" I interjected smugly. 
+"We?" I interjected smugly.
 
-"Ahem, *you*." she backtracked.
+"Ahem, *you*.", she backtracked.
 
 "Still, I'm just saying, cyber security wasn't at the top of my grade list," I pointed out.
 
