@@ -1,6 +1,6 @@
 ---
 title: Soaring - Chapter 1
-description: "Experience the classic myth of Icarus reborn in the backdrop of star-faring utopia. In Soaring, ambition takes flgith beyond earthly boundaries. Witness the monumental triumphs and catastrophic price of unchecked dreams in the faceless vastness of space."
+description: "Experience the classic myth of Icarus reborn in the backdrop of star-faring utopia. In Soaring, ambition takes flight beyond earthly boundaries. Witness the monumental triumphs and catastrophic price of unchecked dreams in the faceless vastness of space."
 slug: soaring-ch-1
 date: 2023-06-16
 image: cover.jpg

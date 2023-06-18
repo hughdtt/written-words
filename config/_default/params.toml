@@ -16,8 +16,8 @@ emoji = "🍥"
 subtitle = "Creative writings of Hugh Duong-Tran-Tien"
 
 [sidebar.avatar]
-enabled = true
-local = true
+enabled = false
+local = false
 src = "img/avatar.png"
 
 [article]
@@ -67,7 +67,7 @@ toggle = true
 default = "auto"
 
 [imageProcessing.cover]
-enabled = false
+enabled = true
 
 [imageProcessing.content]
 enabled = true
