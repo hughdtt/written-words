@@ -1,6 +1,7 @@
 ---
 title: Soaring - Chapter 3
 slug: soaring-ch-3
+description: "Icarus conjures a daring scheme with the help of her AI Ouroboros."
 date: 2023-06-18
 image: cover.jpg
 categories:
